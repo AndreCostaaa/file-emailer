@@ -72,9 +72,6 @@ class Program
 
         watcher.Changed += OnChanged;
         watcher.Error += OnError;
-
-        // watcher.Filter = "*.txt";
-        // watcher.IncludeSubdirectories = true;
         watcher.EnableRaisingEvents = true;
 
         Console.WriteLine("Press enter to exit.");
