@@ -1,4 +1,4 @@
-#File Emailer
+# File Emailer
 
 File Emailer is a simple application that monitors a directory and automatically sends new files via email. 
 
