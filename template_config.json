@@ -1,0 +1,9 @@
+{
+	"smtpServer": "",
+	"smtpPort": "",
+	"watchFolder": "",
+	"archiveFolder": "",
+	"senderEmail": "",
+	"receiverEmail": "",
+	"senderEmailToken": ""
+}
